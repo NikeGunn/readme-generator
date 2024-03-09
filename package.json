@@ -2,7 +2,7 @@
   "name": "readme-generator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nikegunn.github.io/readme-generator",
+  "homepage": "https://NikeGunn.github.io/readme-generator",
   "type": "module",
   "scripts": {
     "deploy": "gh-pages -d dist",
