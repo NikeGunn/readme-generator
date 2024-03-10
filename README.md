@@ -148,5 +148,5 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 <hr>
 <p align="center">
-Developed with ❤️ in Nepal 🇮🇳 
+Developed with ❤️ by NIKHIL BHAGAT in Nepal
 </p>
