@@ -31,11 +31,11 @@
 <p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
 <p align="center">
-    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
+    <a href="https://genreadme.netlify.app/" target="blank">View Demo</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
+    <a href="https://genreadme.netlify.app/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
+    <a href="https://genreadme.netlify.app/issues/new/choose">Request Feature</a>
 </p>
 
 <p align="center">
