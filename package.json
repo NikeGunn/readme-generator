@@ -1,7 +1,7 @@
 {
+  "homepage": "https://NikeGunn.github.io/readme-generator/",
   "name": "readme-generator",
   "private": true,
-  "homepage": "https://NikeGunn.github.io/readme-generator",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
