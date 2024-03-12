@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.paypal.me/Nikhil Bhagat"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+<a href="https://www.paypal.me/Nikhil-Bhagat"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
 </a>
 </p>
 
