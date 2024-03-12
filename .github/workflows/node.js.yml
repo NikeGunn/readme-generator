@@ -1,5 +1,6 @@
+# Take my all code for my yml file for github actions code for deployment brainstorm it review my all code and provide me your own code it must be attractive and smart and run at once on the production
+# Here is my code
 name: Node.js CI
-
 on:
   push:
     branches: ["main"]
@@ -23,7 +24,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
       - run: npm ci
-      - run: npm test
+      - run: npm run test
       - run: npm run build --if-present
 
       - name: Deploy with gh-pages
